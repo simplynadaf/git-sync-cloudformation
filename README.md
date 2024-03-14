@@ -1,10 +1,10 @@
 # 🚀 CloudFormation Git Sync: Managing AWS CloudFormation YML Files with Git 💭
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/simplynadaf/cloudformation-git-sync.svg)](https://github.com/simplynadaf/cloudformation-git-sync/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/simplynadaf/cloudformation-git-sync.svg)](https://github.com/simplynadaf/cloudformation-git-sync/issues)
-[![GitHub forks](https://img.shields.io/github/forks/simplynadaf/cloudformation-git-sync.svg)](https://github.com/simplynadaf/cloudformation-git-sync/network)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/simplynadaf/cloudformation-git-sync.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20project%20https://github.com/simplynadaf/cloudformation-git-sync)
+[![GitHub stars](https://img.shields.io/github/stars/simplynadaf/git-sync-cloudformation.svg)](https://github.com/simplynadaf/cloudformation-git-sync/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/simplynadaf/git-sync-cloudformation.svg)](https://github.com/simplynadaf/cloudformation-git-sync/issues)
+[![GitHub forks](https://img.shields.io/github/forks/simplynadaf/git-sync-cloudformation.svg)](https://github.com/simplynadaf/cloudformation-git-sync/network)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/simplynadaf/git-sync-cloudformation.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20project%20https://github.com/simplynadaf/git-sync-cloudformation)
 
 ## Project Overview
 
