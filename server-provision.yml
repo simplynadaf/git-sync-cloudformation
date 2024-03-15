@@ -73,8 +73,8 @@ Resources:
     Type: AWS::AutoScaling::AutoScalingGroup
     Properties: # Colon was missing here
       MinSize: 1
-      MaxSize: 2
-      DesiredCapacity: 2
+      MaxSize: 1
+      DesiredCapacity: 1
       LaunchConfigurationName: !Ref MyLaunchConfiguration
       VPCZoneIdentifier: 
         - !Ref MyPublicSubnet
