@@ -71,7 +71,7 @@ Resources:
 
   MyAutoScalingGroup:
     Type: AWS::AutoScaling::AutoScalingGroup
-    Properties
+    Properties: # Colon was missing here
       MinSize: 1
       MaxSize: 2
       DesiredCapacity: 2
