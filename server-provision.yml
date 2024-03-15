@@ -72,7 +72,7 @@ Resources:
   MyAutoScalingGroup:
     Type: AWS::AutoScaling::AutoScalingGroup
     Properties
-      MinSize: 2
+      MinSize: 1
       MaxSize: 2
       DesiredCapacity: 2
       LaunchConfigurationName: !Ref MyLaunchConfiguration
