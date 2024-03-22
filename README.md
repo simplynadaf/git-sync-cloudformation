@@ -20,7 +20,7 @@ This project explores the new CloudFormation feature called Git Sync, enabling t
 
 ## Tutorial Blog:
 
-Follow the detailed tutorial on [Dev.to](https://dev.to/aws-builders/cloudformation-git-sync-managing-aws-cloudformation-yml-files-with-git-51lj-temp-slug-5473599?preview=283e93d408b76fc3687f7e2541c5633e90dc96333f477ca47348bda695eb60f71262b0b70d7db199e5f1c557b18f89a5588f96c428b4c4c1bd2223f7) for step-by-step instructions.
+Follow the detailed tutorial on [Dev.to](https://dev.to/aws-builders/streamlining-infrastructure-deployment-seamless-cloudformation-stack-deployment-with-git-sync-2hg5) for step-by-step instructions.
 
 ## Follow for Updates:
 
